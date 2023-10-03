@@ -1,0 +1,57 @@
+Port for FTP (File Transfer Protocol), Port 21
+Port for TELNET (Telnet Protocol), Port 23
+Port for SMTP (Simple Mail Transfer Protocol), Port 25
+Port for DNS (Domain Name System), Port 53
+Port for HTTP (HyperText Transfer Protocol), Port 80
+Port for POP3 (Post Office Protocol), Port 110
+Port for IMAP4 (Internet Message Access Protocol), Port 143
+Port for HTTPS (Secure HTTP), Port 443
+Port for RDP , Port 3389
+Port for SSH (Secure Shell), Port 22
+Port for DHCP (Dynamic Host Configuration Protocol), 67 - 68
+Port for NetBIOS Name Service, Port 137
+Port for Microsoft-DS (Active Directory), Port 445
+The IP address encodes what two pieces of information?, The network number (ID) - The host number (ID)
+What technology uses DOCSIS, Cable Access TV (CATV)
+What wireless standard has 54Mbps and uses the 2.4GHz channel?, 802.11g
+What wireless standard has 1.7Gbps and uses the 5GHz channel?, 802.11ac
+What wireless standard has 600Mbps and uses the 2.4GHz or 5GHz channel?, 802.11n
+What wireless standard has 11Mbps and uses the 2.4GHz channel?, 802.11b
+What is the speed of 802.11a?, 54 Mbps - 5GHz
+What is the speed of 802.11b?, 11 Mbps - 2.4GHz
+What is the speed of 802.11g?, 54 Mbps - 2.4GHz
+What is the speed of 802.11n?, 600 Mbps - 2.5/5GHz
+What is the speed of 802.11ac?, 1.7 Gbps - 5GHz
+\\PC-Name\Folder is an example of what naming convention?, Universal Naming Convention (UNC)
+What does the universal naming convention look like?, \\{pc-name}\{folder name}
+How many disks does RAID 1 use?, 2 Disks
+RAID 1 uses what technique to prevent data loss?, disk mirroring
+RAID 5 uses what technique to prevent data loss?, striping with parity
+RAID 5 uses how many disks, At least 3 disks are used in RAID 5. Data is striped across all disks and parity data is written to a different disk with each write
+How many disks can fail with RAID 1, only one disk can fail
+How many disks can fail with RAID 5, only one disk can fail
+What are the three factors of authentication?, Something you have, something you know, something you are.
+What are the steps in the troubleshooting methodology?, Identify - Research - Establish - Test - Plan - Implement - Verify - Document
+Identifying the problem when troubleshooting involves what steps?, Gather info - Duplicate problem - Question users - Identify symptoms - Determine any changes - Approach problems individually
+A SCRIPTED language is used for what purpose?, Languages that run within an interpreter
+A SCRIPTING language is used for what purpose?, To provide automation and configuration of a particular OS
+What does it mean for a database to be scalable?, To expand usage without increasing costs at the same rate.
+In SQL the CREATE command is what kind of command?, (DDL) Data Definition Language command
+In SQL the ALTER TABLE command performs what action?, Allows you to add - drop - or modify the table columns
+The DROP command in SQL is used for what?, Delete a table or database
+In SQL what is the name of the set of commands that allows you to insert-update-or extract information?, (DML) Data Manipulation Language
+An app that stores and uses the Presentation - Application - Database layers on one machine is how many tiers?, One-tier or Single-tier
+An app that uses uses the application on one computer and the database on another computer is how many tiers?, Two-tier
+An app that has a GUI on the the client the application on a server and the database on another server is how many tiers?, Three tiers
+An app that has a GUI computer - multiple application servers and a database(s) on other servers is how many tiers?, N-tier 
+What is the data rate for USB 1.1?, 12 megabits per second
+What is the data rate for USB 2.0?, 480 Megabits per second
+What is the data rate for USB 3.0?, 5 Gigabits per second
+What is the data rate for USB 3.1?, 10 Gigabits per second
+What is the data rate for USB 3.2?, 10 Gigabits pers second and 20 Gigabits per second
+USB 3.0 SuperSpeed is what duplex?, Full duplex
+What is the speed of Firewire 400 - 6 pin 400 Megabits per second
+What is the speed of the Firewire 800 - 9 pin?, 800 Megabits per second
+Most computer displays use what form factor? 16:9 or 16:10
+review Protocols, todo
+review hardware speeds, todo
